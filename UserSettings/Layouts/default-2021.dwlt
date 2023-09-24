@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 529
+  controlID: 513
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 530
+  controlID: 416
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 539
+  controlID: 439
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -653,9 +653,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.2123779, y: 12.1996355, z: 0.100161135}
+    m_Target: {x: -1.03382, y: 15.6529875, z: 0.016346684}
     speed: 2
-    m_Value: {x: -1.2123779, y: 12.1996355, z: 0.100161135}
+    m_Value: {x: -1.0449384, y: 15.313875, z: 0.024629937}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -706,9 +706,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10.854043
+    m_Target: 19.235495
     speed: 2
-    m_Value: 10.854043
+    m_Value: 18.407171
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -765,9 +765,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ce5c0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: caf5ffffe6f7ffffe8f9ffff1cfbffff
+      m_ExpandedIDs: c087ffff5493ffff9494ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -833,21 +833,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Menu
+    - Assets/Scenes/Rome
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\mateo\Desktop\worldexplorer 23-09-23
+  m_LastProjectPath: C:\Users\d3n1s\Documents\GitHub\WorldExplorerFinal\WorldExplorer
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 9e640000
     m_LastClickedID: 25758
-    m_ExpandedIDs: ffffffff00000000c05b0000c25b0000c45b0000c65b0000c85b0000ca5b0000cc5b0000ce5b0000d05b0000d25b0000d45b0000d65b0000d85b0000da5b0000dc5b0000de5b0000e05b0000e25b0000e45b0000e65b0000e85b0000ea5b0000ec5b0000ee5b0000f05b0000f25b0000f45b0000f65b0000c85c0000
+    m_ExpandedIDs: ffffffff22bc000064bc000070bc000074bc0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -872,10 +872,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 1020}
+    scrollPos: {x: 0, y: 205}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000c05b0000c25b0000c45b0000c65b0000c85b0000ca5b0000cc5b0000ce5b0000d05b0000d25b0000d45b0000d65b0000d85b0000da5b0000dc5b0000de5b0000e05b0000e25b0000e45b0000e65b0000e85b0000ea5b0000ec5b0000ee5b0000f05b0000f25b0000f45b0000f65b0000c85c0000
+    m_ExpandedIDs: ffffffff22bc000064bc000070bc000074bc0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

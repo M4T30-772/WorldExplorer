@@ -294,11 +294,11 @@ PrefabInstance:
     - target: {fileID: 3305909648100944782, guid: 95674eb6414ba2c4982e7a22588562e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 2df67a5b0758a3b4aa66e332d59fa8cb, type: 2}
+      objectReference: {fileID: 2100000, guid: 97ff0b233bb2db2478c3cc3f18f89962, type: 2}
     - target: {fileID: 3736344010254614434, guid: 95674eb6414ba2c4982e7a22588562e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 2df67a5b0758a3b4aa66e332d59fa8cb, type: 2}
+      objectReference: {fileID: 2100000, guid: 97ff0b233bb2db2478c3cc3f18f89962, type: 2}
     - target: {fileID: 5866666021909216657, guid: 95674eb6414ba2c4982e7a22588562e7, type: 3}
       propertyPath: m_Controller
       value: 
@@ -341,7 +341,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 717107348}
-  m_RootOrder: 332
+  m_RootOrder: 324
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!64 &105270635
 MeshCollider:
@@ -1317,7 +1317,7 @@ MonoBehaviour:
   player: {fileID: 629692809}
   walkPoint: {x: 12, y: 0, z: 6}
   walkPointRange: 20
-  sightRange: 7.5
+  sightRange: 50
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -1654,7 +1654,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 717107348}
-  m_RootOrder: 330
+  m_RootOrder: 322
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!64 &581125622
 MeshCollider:
@@ -1771,8 +1771,8 @@ MonoBehaviour:
   agent: {fileID: 0}
   player: {fileID: 629692809}
   walkPoint: {x: 12, y: 0, z: 6}
-  walkPointRange: 20
-  sightRange: 7.5
+  walkPointRange: 10
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -2481,7 +2481,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 717107348}
-  m_RootOrder: 331
+  m_RootOrder: 323
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!64 &944548553
 MeshCollider:
@@ -3350,8 +3350,8 @@ MonoBehaviour:
   agent: {fileID: 0}
   player: {fileID: 629692809}
   walkPoint: {x: 12, y: 0, z: 6}
-  walkPointRange: 20
-  sightRange: 7.5
+  walkPointRange: 10
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -3611,8 +3611,8 @@ MonoBehaviour:
   agent: {fileID: 0}
   player: {fileID: 629692809}
   walkPoint: {x: 12, y: 0, z: 6}
-  walkPointRange: 20
-  sightRange: 7.5
+  walkPointRange: 10
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -3858,8 +3858,8 @@ MonoBehaviour:
   agent: {fileID: 0}
   player: {fileID: 629692809}
   walkPoint: {x: 12, y: 0, z: 6}
-  walkPointRange: 20
-  sightRange: 7.5
+  walkPointRange: 10
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
