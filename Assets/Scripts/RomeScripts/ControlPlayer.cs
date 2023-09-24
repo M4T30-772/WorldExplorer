@@ -14,7 +14,7 @@ public class ControlPlayer : MonoBehaviour
         get { return isDead; }
         set { isDead = value; }
     }
-    public static int health = 100;
+    public static int health;
     public bool isShieldActive = false;
     private Coroutine shieldCoroutine;
 
@@ -29,6 +29,7 @@ public class ControlPlayer : MonoBehaviour
 
     private void Start()
     {
+        health = 100;
         animator = GetComponent<Animator>();
         healthSlider.maxValue = health;
         healthSlider.value = health;

@@ -120,6 +120,7 @@ public class SceneLoader : MonoBehaviour
             lockedText.text = "Level zaključan!";
             StartCoroutine(RemoveTextAfterDelay(3f));
         }
+        print(LastLevelLoaded);
     }
 
     private IEnumerator RemoveTextAfterDelay(float delay)

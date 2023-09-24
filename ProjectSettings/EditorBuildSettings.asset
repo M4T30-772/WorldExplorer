@@ -95,4 +95,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu/Facts/FactEgipat 3.unity
     guid: 9ba6a43062ce4e44e890e6e90b2d2555
+  - enabled: 1
+    path: "Assets/Scenes/Menu/Story/Gr\u010Dka.unity"
+    guid: 456ca0159c717da478b937d5c1f0b8bb
+  - enabled: 1
+    path: Assets/Scenes/Menu/Story/IntroEgipat.unity
+    guid: c76b6241fd5431344865078d3496f751
+  - enabled: 1
+    path: Assets/Scenes/Menu/Story/Rim.unity
+    guid: cba81121d7ba90e47acbbec895a5ecfd
   m_configObjects: {}

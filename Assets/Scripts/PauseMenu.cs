@@ -72,8 +72,8 @@ public class PauseMenu : MonoBehaviour
     public void ShowInfoCanvas()
     {
         // Hide the mouse cursor
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        //Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.visible = false;
 
         infoCanvas.SetActive(true);
 
