@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: fbf93d03575219b41bd6f2c87abf7630
   - enabled: 1
     path: Assets/Scenes/Egipat/Labirint1.unity
     guid: 72dd0a2da479eca4ba2b61cf8b50bbb5
@@ -20,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu/GameOver.unity
     guid: 2e63edd70cf91774d9718f922462538e
-  - enabled: 1
-    path: Assets/Scenes/Menu/MainMenu.unity
-    guid: fbf93d03575219b41bd6f2c87abf7630
   - enabled: 1
     path: Assets/Scenes/Rome/RomeLevel2.unity
     guid: fed266d94174aed449a22e8c9545031c

@@ -724,8 +724,8 @@ MonoBehaviour:
   agent: {fileID: 441936572}
   player: {fileID: 629692809}
   walkPoint: {x: -8, y: 0, z: -2}
-  walkPointRange: 20
-  sightRange: 5
+  walkPointRange: 15
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -4073,7 +4073,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1177681244104539690, guid: 08d1160fc020fdb499c2ad193bba7672, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.3
+      value: 3.57
       objectReference: {fileID: 0}
     - target: {fileID: 1177681244104539690, guid: 08d1160fc020fdb499c2ad193bba7672, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4223,8 +4223,8 @@ MonoBehaviour:
   agent: {fileID: 441936572}
   player: {fileID: 629692809}
   walkPoint: {x: 12, y: 0, z: 6}
-  walkPointRange: 20
-  sightRange: 5
+  walkPointRange: 15
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0

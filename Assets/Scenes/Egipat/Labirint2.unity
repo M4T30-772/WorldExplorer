@@ -333,7 +333,7 @@ MonoBehaviour:
   player: {fileID: 629692809}
   walkPoint: {x: 18, y: 0, z: 6}
   walkPointRange: 10
-  sightRange: 7.5
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -1167,7 +1167,7 @@ MonoBehaviour:
   player: {fileID: 629692809}
   walkPoint: {x: -10, y: 0, z: 2}
   walkPointRange: 10
-  sightRange: 7.5
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -3384,7 +3384,7 @@ MonoBehaviour:
   player: {fileID: 629692809}
   walkPoint: {x: 2, y: 0, z: 14}
   walkPointRange: 10
-  sightRange: 7.5
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
@@ -4549,7 +4549,7 @@ MonoBehaviour:
   player: {fileID: 629692809}
   walkPoint: {x: 2, y: 0, z: -6}
   walkPointRange: 10
-  sightRange: 7.5
+  sightRange: 10
   attackRange: 0
   playerInSightRange: 0
   playerInAttackRange: 0
